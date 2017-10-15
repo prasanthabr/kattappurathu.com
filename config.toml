@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://kattappurathu.com/"
 languageCode = "en-us"
 title = "Kattappurathu | A slice of God's Own Travancore"
 theme = "hugo-agency-theme"
