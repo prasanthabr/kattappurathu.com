@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kattappurathu | A slice of God&#39;s Own Travancore</title>
-    <link>https://example.org/</link>
+    <link>http://kattappurathu.com/</link>
     <description>Recent content on Kattappurathu | A slice of God&#39;s Own Travancore</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kattappurathu.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
