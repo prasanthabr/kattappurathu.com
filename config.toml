@@ -84,7 +84,7 @@ googleAnalytics = ""
   [params.services]
     enable = true
     title = "What to Expect"
-    subtitle = "Kattappurathu is an old bunglow directly on the MC Road, in the quaint little village of Idinzhillam. The property is teeming with life with fruit trees, flowering plants, a flurry of native birds (including, recently, a visting peahen), squirrels, an odd Iguania, a family of mongoose, a few proud Indian monitor lizards. In the fields and farm area behind and on either side of the property, one may encounter an odd native snake or turtles. We do encourage our guests to be accompanied while exploring our extended property, in case you are not familiar with native animals. <br><br> We take pride in being a green oasis in the middle of a fast developing region and try to celebrate life, and take care not to harm the animals that make our place their home. In addition, we keep various kinds of poultry as pets, and have an open air pond with fishes. <br> Apart from the bunglow, we have an adjecant free standing wooden granary that was once filled with grain from our fields. <br> Do visit with an open mind and savour in the sounds, smells and experiences of Central Tranvancore"
+    subtitle = "Kattappurathu is an old bungalow facing the Main Central Road, in the quaint little village of Ezhinjillam (colloquially known as Idinjillam). <br> The property, though not very large, is teeming with life. Local fruit trees like mango, jack fruit, flowering plants that attract butterflies and dragon flies, a flurry of native birds (including, recently, a visiting peahen), squirrels, an odd Iguania, a family of mongoose and a few proud Indian monitor lizards add up to the ‘life’ in the property. Fish grown in a pond within the land and a few varieties of poultry may be treated as part of the family. The house overlooks paddy fields of Kuttanadu. In the fields and farm area behind the property, one may encounter a few turtles, owls and beetles. We do encourage our guests to explore our extended property and enjoy. <br><br>**Nature at its best**<br>We take pride in being a green oasis in the middle of a fast developing region, try to celebrate life, and take care not to harm the animals that make our place their home. As suggested earlier we keep few varieties of poultry as pets, and have an open air pond with fishes.<br>Apart from the bungalow, we have an adjacent free standing wooden granary (see the facing picture) that brings nostalgic memories of a grand era of farming in Kuttanad. Till recently we used to keep paddy cultivated in our fields in this granary. Now, we maintain it for our guest to see and our next generation to remember the toil of our ancestors.<br><br>We invite you to visit us with an open mind, be a Kuttanad farmer in spirit and savour in the sounds, smells, sights and experiences of Central Tranvancore."
 
     [[params.services.row]]
 
@@ -127,7 +127,7 @@ googleAnalytics = ""
   [params.about]
     enable = true
     title = "That Point on the Map!"
-    subtitle = "Idinzhillam is a small village in between two growing towns of Changennacherry and Triuvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east the famed KK Road take us the cardamom hills and forests of the western ghats.<br><br>Central Travancore is the seat of royalty and culture with a quite a few unexplored gems of Kerala"
+    subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiurvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats.<br><br>Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala."
     endpoint = "Make it<br>part of your<br>story!"
 
     # The events will be listed from the top to the bottom.
@@ -137,19 +137,19 @@ googleAnalytics = ""
       img = "1.jpg"
       date = "Aranmula"
       title = "The glass that isn't glass"
-      description = "Known for the mirror of the same name; this seat of culture has historic temples and events"
+      description = "Aranmula, 23 kms from Idinjillam, is famous for Aranmula Kannadi (Aranmula Mirror), a unique handicraft product that is believed to have existed even during the Vedic period. The myth about its origin and its secret composition make it a truly fascinating product. It is made up of some undisclosed metals alloyed with silver, bronze, copper and tin. It is a precious inherited gift. The aura of secret behind its manufacture makes it all the more famous. Tradition links this craft closely with the ancient Aranmula Parthsarathy temple. Any write up on Aranmula will be imperfect without a mention of Plliodams, vachippattu and vallasadya. Palliyodams are Aranmula's unique snake boats (Chundan Vallam) which devotees hold in reverence, considering it as the divine vessel of the presiding deity in Sree Parthasarathy temple. Sitting two in row along the length of the Boat the oarsmen will row in rhythm of the vanchipattu (boatman's song) being sung by a group of experienced singers. Vallasadya is a ritualistic feast, done as a vazhipadu (offering) by the devotees to Lord Krishna, the presiding deity at the Sree Parthasarathy temple. It lasts for more than sixty days and with more than sixty exquisite dishes to relish. As part of the Vallasadya the crew of the selected snake-boat will be accorded a customary reception on their arrival to the temple ghat. They circumambulate the temple, singing Vanchippattu, songs of the boatmen in praise of Lord Parthasarathy, before being led to the temple Oottupura (dining hall) for the feast. As the feast progresses, the guests demand more rice and dishes by singing in the same style as that of Vanchippattu. This generates an ambience filled with fun, hurried activities and a flow of energy that is unique to Vallasadya. As many as 50 to 64 items are usually served during the course of this sumptuous feast. It is conducted usually during July-September every year."
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Nedumudy"
+      date = "Pallathuruthy"
       title = "The houseboats"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      description = "Pallathuruthy, famous for house boats is only 23 kms from our place. Different types of House Boats are available here to suit the purse of the tourist. Most of the house boats serve local delicacies like ‘Kappayum meen vevichathum’ (Tapioca and a special fish curry using kudampuli- an exclusive spice of Kuttanadu) and Karimeen pollichathu (A special fry of Pearlspot packed in banana leaves giving the preparation a rich aroma that arouses taste buds)."
 
     [[params.about.events]]
       img = "3.jpg"
       date = "Tiruvalla"
       title = "Kathakali throughout"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      description = "We belong to Thiruvalla, in Pathanamthitta District. The name Thiruvalla is a colloquial form of Sreevallabhapuram, named after the chief deity Sree Vallabha of Sreevallabha Temple here. It is a highly orthodox Hindu Temple dedicated to Purusha as Lord Sreevallabhan. It is one among the oldest and biggest Temples of Kerala and a major destination for devotees all over India for centuries. This is the only temple in Kerala where Kathakali, the folk art of Kerala, is performed as a ritual offering every night. Thiruvalla is famous for many other things also. It is the headquarters of the Malankara Marthoma Syrian Church that conducts the Maramon Convention, one of the largest Christian conventions in Asia at Maramon near Thiruvlla annually. Again, the Paliakara Church in Thiruvlla has some exquisite mural paintings on the walls of its sanctum sanatorium. Chakkulathukavu Sree Bhagavathy temple, where large number of women devotees assemble annully once for conducting pongla ritul is situated on the border of Pathanamthitta and Alappuzha districts at Neerettupuram."
 
     [[params.about.events]]
       img = "4.jpg"
@@ -297,7 +297,7 @@ She worked at Pied Piper for years until they went belly up."""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "2017 kattappurathu.com"
+    copyright = "2017 [kattappurathu.com](http://kattappurathu.com)"
 
     [[params.footer.social]]
       icon = "fa-twitter"
