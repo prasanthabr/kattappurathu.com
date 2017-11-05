@@ -49,7 +49,7 @@ googleAnalytics = ""
     # Optional logo as brand stored in img/
     #logo = "logo.svg"
     services = "What to Expect"
-    portfolio = "Portfolio"
+    portfolio = "Sights"
     about = "Where are we?"
     team = "Team"
     contact = "Contact"
@@ -66,8 +66,8 @@ googleAnalytics = ""
 
     # postpended links
     [[menu.postpend]]
-      url = "http://gohugo.io"
-      name = "External link"
+      url = "http://prasanthabr.github.io/kuttanadan/"
+      name = "Tales & Fables"
       weight = 10
 
 
@@ -77,33 +77,33 @@ googleAnalytics = ""
     # the 'static/img' folder.
     title = "Welcome to our little slice of God's Own Travancore"
     subtitle = "welcome to the slow lane"
-    buttonText = "Visit Us"
+    buttonText = "Stay with Us"
 
 
   # Services section
   [params.services]
     enable = true
     title = "What to Expect"
-    subtitle = "Kattappurathu is an old bungalow facing the Main Central Road, in the quaint little village of Ezhinjillam (colloquially known as Idinjillam). <br> The property, though not very large, is teeming with life. Local fruit trees like mango, jack fruit, flowering plants that attract butterflies and dragon flies, a flurry of native birds (including, recently, a visiting peahen), squirrels, an odd Iguania, a family of mongoose and a few proud Indian monitor lizards add up to the ‘life’ in the property. Fish grown in a pond within the land and a few varieties of poultry may be treated as part of the family. The house overlooks paddy fields of Kuttanadu. In the fields and farm area behind the property, one may encounter a few turtles, owls and beetles. We do encourage our guests to explore our extended property and enjoy. <br><br>**Nature at its best**<br>We take pride in being a green oasis in the middle of a fast developing region, try to celebrate life, and take care not to harm the animals that make our place their home. As suggested earlier we keep few varieties of poultry as pets, and have an open air pond with fishes.<br>Apart from the bungalow, we have an adjacent free standing wooden granary (see the facing picture) that brings nostalgic memories of a grand era of farming in Kuttanad. Till recently we used to keep paddy cultivated in our fields in this granary. Now, we maintain it for our guest to see and our next generation to remember the toil of our ancestors.<br><br>We invite you to visit us with an open mind, be a Kuttanad farmer in spirit and savour in the sounds, smells, sights and experiences of Central Tranvancore."
+    subtitle = "Kattappurathu is an old bungalow facing the Main Central Road, in the quaint little village of Ezhinjillam (colloquially known as Idinjillam). <br> The property, though not very large, is teeming with life. Local fruit trees like mango, jack fruit, flowering plants that attract butterflies and dragon flies, a flurry of native birds (including, recently, a visiting peahen), squirrels, an odd Iguania, a family of mongoose and a few proud Indian monitor lizards add up to the ‘life’ in the property. Fish grown in a pond within the land and a few varieties of poultry are treated as part of the family. The house overlooks paddy fields of Kuttanadu. In the fields and farm area behind the property, one may encounter a few turtles, owls and beetles. We do encourage our guests to explore our extended property and enjoy nature at its best. We take pride in being a green oasis in the middle of a fast developing region, try to celebrate life, and take care not to harm the animals that make our place their home.<br><br>We offer the staying quarters for our guests on the top floor of our house. The top floor, with two quarters, common areas and common kitchen, is self contained, with independent access and provides relative privacy from our home downstairs.<br><br>Apart from the bungalow, we have an adjacent free standing wooden granary (see the facing picture) that brings nostalgic memories of a grand era of farming in Kuttanad. Till recently we used to keep paddy cultivated in our fields in this granary. Now, we maintain it for our guest to see and our next generation to remember the toil of our ancestors.<br><br>We invite you to visit us with an open mind, be a Kuttanad farmer in spirit and savour in the sounds, smells, sights and experiences of Central Tranvancore, while staying with us as our guests."
 
     [[params.services.row]]
 
     [[params.services.row.list]]
       icon = "fa-camera-retro"
       title = "Native Sights"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "We offer the warmth of a home on the banks of extensive paddy fields, where one can witness the kuttanadan sun setting into endless expanse of paddy fields behind coconut trees. An old ara or grannary on the property is unique to the region. A mansion built in the 60s inspired by art deco completes the sights. The larger of our boarding rooms have extensive windows to the paddy fields, which also brings in a light breeze into the house."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-bug"
       title = "Native Flora Fauna"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "We like to think of our home as a green oasis. If you look beyond the two overarching mango trees, themselves perhaps as old as India herself, you shall find jackfruits, berries, plantain, banana and tamarinds. The property is also home to an eclectic mix of animals and birds. We would encourage you to slow down, savour in the sights and smells that are on offer at our home."
       url = "#"
 
     [[params.services.row.list]]
       icon = "fa-bell-slash"
       title = "Calm & Quiet"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      description = "The property is right on the main central road in Kerala, but cocooned in the tiny village of Ezhinjillam. This allows you a quiet peaceful slice of Kerala, away from the hustle of a routine Kerala. And if you are indeed feeling the urge to experience the hustle, we encourage you to visit the old markets, steeped in history, with its own canal system, in Changanacherry"
       url = "#"
 
   # Portfolio section
@@ -113,12 +113,12 @@ googleAnalytics = ""
     # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
-    title = "Portfolio"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
+    title = "Around Us.."
+    subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiurvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats. Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala.</br></br> For the traveller who wants to take it slow, our home, provides a much needed respite in itself. </br></br> We offer comfortable, safe homestay facilities at Idinjillam at our home."
 
     [params.portfolio.modal]
       client = "Client"
-      date = "Date"
+      distance = "Distance"
       category = "Category"
       buttonText = "Close project"
 
@@ -127,35 +127,35 @@ googleAnalytics = ""
   [params.about]
     enable = true
     title = "That Point on the Map!"
-    subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiurvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats.<br><br>Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala."
-    endpoint = "Make it<br>part of your<br>story!"
+    subtitle = "Our homestay is in Idinjillam in the Central Travancore region of Kerala, with the kuttanadan paddy fields to our west and the hills of the western ghats to our east."
+    endpoint = "Make us the destination itself"
 
     # The events will be listed from the top to the bottom.
     # All images are stored under 'static/img/about'.
     # Replace them with your own.
     [[params.about.events]]
       img = "1.jpg"
-      date = "Aranmula"
-      title = "The glass that isn't glass"
-      description = "Aranmula, 23 kms from Idinjillam, is famous for Aranmula Kannadi (Aranmula Mirror), a unique handicraft product that is believed to have existed even during the Vedic period. The myth about its origin and its secret composition make it a truly fascinating product. It is made up of some undisclosed metals alloyed with silver, bronze, copper and tin. It is a precious inherited gift. The aura of secret behind its manufacture makes it all the more famous. Tradition links this craft closely with the ancient Aranmula Parthsarathy temple. Any write up on Aranmula will be imperfect without a mention of Plliodams, vachippattu and vallasadya. Palliyodams are Aranmula's unique snake boats (Chundan Vallam) which devotees hold in reverence, considering it as the divine vessel of the presiding deity in Sree Parthasarathy temple. Sitting two in row along the length of the Boat the oarsmen will row in rhythm of the vanchipattu (boatman's song) being sung by a group of experienced singers. Vallasadya is a ritualistic feast, done as a vazhipadu (offering) by the devotees to Lord Krishna, the presiding deity at the Sree Parthasarathy temple. It lasts for more than sixty days and with more than sixty exquisite dishes to relish. As part of the Vallasadya the crew of the selected snake-boat will be accorded a customary reception on their arrival to the temple ghat. They circumambulate the temple, singing Vanchippattu, songs of the boatmen in praise of Lord Parthasarathy, before being led to the temple Oottupura (dining hall) for the feast. As the feast progresses, the guests demand more rice and dishes by singing in the same style as that of Vanchippattu. This generates an ambience filled with fun, hurried activities and a flow of energy that is unique to Vallasadya. As many as 50 to 64 items are usually served during the course of this sumptuous feast. It is conducted usually during July-September every year."
+      date = "Kattappurathu"
+      title = "Stay in an elegant mansion house"
+      description = "This is an elegant, imposing mansion house overlooking paddy fields and lush gardens. It is conveniently connected by road and rail. Its hospitable owners offer a sumptuous base to those who love to get an authentic experience of what God's Own Country has to offer. They have a wealth of experience to advise and help guests personalise their travel experience from paddy fields to backwaters, house boats, elephant rides, temples, churches, mural paintings, art and unparalleled cuisine of Kerala. We welcome you to stay with us."
 
     [[params.about.events]]
       img = "2.jpg"
-      date = "Pallathuruthy"
-      title = "The houseboats"
-      description = "Pallathuruthy, famous for house boats is only 23 kms from our place. Different types of House Boats are available here to suit the purse of the tourist. Most of the house boats serve local delicacies like ‘Kappayum meen vevichathum’ (Tapioca and a special fish curry using kudampuli- an exclusive spice of Kuttanadu) and Karimeen pollichathu (A special fry of Pearlspot packed in banana leaves giving the preparation a rich aroma that arouses taste buds)."
+      date = "Ara"
+      title = "Old wooden granary to store grains"
+      description = "The old granary has seen a few summers where grain from the fields that were owned by the hosts, were stored in it after the harvest. In the kuttanad region of Kerala, paddy is the staple crop, where farmers grow paddy twice a year. The rice from the paddy is boiled in large copper vessels and dried in the hot Kerala sun."
 
     [[params.about.events]]
       img = "3.jpg"
-      date = "Tiruvalla"
-      title = "Kathakali throughout"
-      description = "We belong to Thiruvalla, in Pathanamthitta District. The name Thiruvalla is a colloquial form of Sreevallabhapuram, named after the chief deity Sree Vallabha of Sreevallabha Temple here. It is a highly orthodox Hindu Temple dedicated to Purusha as Lord Sreevallabhan. It is one among the oldest and biggest Temples of Kerala and a major destination for devotees all over India for centuries. This is the only temple in Kerala where Kathakali, the folk art of Kerala, is performed as a ritual offering every night. Thiruvalla is famous for many other things also. It is the headquarters of the Malankara Marthoma Syrian Church that conducts the Maramon Convention, one of the largest Christian conventions in Asia at Maramon near Thiruvlla annually. Again, the Paliakara Church in Thiruvlla has some exquisite mural paintings on the walls of its sanctum sanatorium. Chakkulathukavu Sree Bhagavathy temple, where large number of women devotees assemble annully once for conducting pongla ritul is situated on the border of Pathanamthitta and Alappuzha districts at Neerettupuram."
+      date = "After the Harvest"
+      title = "Ducks, fishes, fisherman and the festival of summer"
+      description = "Large paddy fields of the kuttanad region are a sight to behold in all seasons. While the lush green paddy swaying in the wind is ubiquitous in pictures; the explosion of life after the harvest is an equally appealing sight. The flooded fields are filled with fish, birds and ducks and is an experience reserved for those who call this land home."
 
     [[params.about.events]]
       img = "4.jpg"
-      date = "Peerumedu"
-      title = "in the lap of the ghats"
-      description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      date = "Seasonal fruit trees"
+      title = "Under the shade of the mango trees"
+      description = "The property, though small, is filled with trees and plants. There are mangoes, a variety of jackfruits and local plaintain that one can enjoy straight from mother nature."
 
 
   # Team section
@@ -212,7 +212,7 @@ She worked at Pied Piper for years until they went belly up."""
 
   # Client section
     [params.clients_list]
-      enable = false
+      enable = true
       # Possibility to center items
       #center = true
       # Optional client title specifying the involvement
@@ -229,19 +229,11 @@ She worked at Pied Piper for years until they went belly up."""
         logo = "designmodo.jpg"
         link = "#"
 
-      [[params.clients]]
-        logo = "themeforest.jpg"
-        link = "#"
-
-      [[params.clients]]
-        logo = "creative-market.jpg"
-        link = "#"
-
   # Contact section
   [params.contact]
     enable = true
     title = "Contact us"
-    subtitle  = "Lorem ipsum dolor sit amet consectetur."
+    subtitle  = "Use the form or sent us a note on [rajan@kattappurathu.com](mailto:rajan@kattappurathu.com)"
     buttonText = "Send message"
 
     # Since this template is static, the contact form uses www.formspree.io as a

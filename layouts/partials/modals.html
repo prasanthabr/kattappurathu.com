@@ -18,7 +18,7 @@
               <img class="img-responsive img-centered" src="{{ $url | absURL }}" alt="">
               <p>{{ .description | markdownify }}</p>
               <ul class="list-inline">
-                <li>{{ with $.Site.Params.portfolio.modal.date }}{{ . }}{{ end }}: {{ .date }}</li>
+                <li>{{ with $.Site.Params.portfolio.modal.distance }}{{ . }}{{ end }}: {{ .distance }}</li> <!--need to change the date to distance-->
                 <li>{{ with $.Site.Params.portfolio.modal.client }}{{ . | markdownify }}{{ end }}: <a href="{{ .clientLink }}">{{ .client }}</a></li>
                 <li>{{ with $.Site.Params.portfolio.modal.category }}{{ . }}{{ end }}: {{ .category  | markdownify }}</li>
               </ul>

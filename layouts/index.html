@@ -11,6 +11,10 @@
       {{ partial "services.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.about.enable }}
+      {{ partial "about.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.portfolio.enable }}
       {{ partial "portfolio.html" . }}
     {{ end }}
@@ -21,10 +25,6 @@
 
     {{ if .Site.Params.clients_list.enable }}
       {{ partial "clients.html" . }}
-    {{ end }}
-
-    {{ if .Site.Params.about.enable }}
-      {{ partial "about.html" . }}
     {{ end }}
 
     {{ if .Site.Params.contact.enable }}
