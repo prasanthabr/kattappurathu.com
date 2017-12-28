@@ -97,7 +97,7 @@ googleAnalytics = "UA-111622234-1"
     [[params.services.row.list]]
       icon = "fa-bug"
       title = "Native Flora Fauna"
-      description = "We like to think of our home as a green oasis. If you look beyond the two overarching mango trees, themselves perhaps as old as India herself, you shall find jackfruits, berries, plantain, banana and tamarinds. The property is also home to an eclectic mix of animals and birds. We would encourage you to slow down, savour in the sights and smells that are on offer at our home."
+      description = "We like to think of our home as a green oasis. If you look beyond the two overarching mango trees, you shall find jackfruits, berries, plantain, banana and tamarinds. The property is also home to an eclectic mix of animals and birds. We would encourage you to slow down, savour in the sights and smells that are on offer at our home."
       url = "#"
 
     [[params.services.row.list]]
@@ -114,7 +114,7 @@ googleAnalytics = "UA-111622234-1"
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     title = "Around Us.."
-    subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiurvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats. Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala.</br></br> For the traveller who wants to take it slow, our home, provides a much needed respite in itself. </br></br> We offer comfortable, safe homestay facilities at Idinjillam at our home."
+    subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiruvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats. Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala.</br></br> For the traveller who wants to take it slow, our home, provides a much needed respite in itself. </br></br> We offer comfortable, safe homestay facilities at Idinjillam at our home."
 
     [params.portfolio.modal]
       client = "Hotstop"
