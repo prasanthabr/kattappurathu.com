@@ -5,7 +5,7 @@ title = "Kattappurathu | A slice of God's Own Travancore"
 theme = "hugo-agency-theme"
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-111622234-1"
 
 [params]
   # You can use Markdown syntax for urls [text](//url.to/source) or
@@ -18,7 +18,7 @@ googleAnalytics = ""
   # To provide some metadata for search engines feel free to add a few
   # information about you and your website.
   name = "Kattappurathu"
-  description = "Our home. A bunglow with character surrounded with fruit trees and flowering plants, on MC Road between Thiruvalla and Changanacherry. Close to Kuttanad Kumarakom backwaters, close enough to the verdant hills and forests of the Western Ghats"
+  description = "Our home is a home stay in the upper kuttanad region of central travancore in Kerala, India. A bunglow with character surrounded with fruit trees and flowering plants, on MC Road between Thiruvalla and Changanacherry. Close to Kuttanad Kumarakom backwaters, close enough to the verdant hills and forests of the Western Ghats. Visit Konni Elephant camp, alleppy kuttanad backwaters, cheruthenaruvi in pattanamthitta."
 
   # Link custom assets relative to /static
   custom_css = []
