@@ -3,12 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://kattappurathu.com/policies/privacy/</loc>
+    <lastmod>2017-12-28T15:25:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kattappurathu.com/policies/</loc>
+    <lastmod>2017-12-28T15:25:26+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kattappurathu.com/policies/location/</loc>
+  </url>
+  
+  <url>
     <loc>http://kattappurathu.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://kattappurathu.com/</loc>
+    <lastmod>2017-12-28T15:25:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
