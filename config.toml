@@ -117,10 +117,10 @@ googleAnalytics = ""
     subtitle = "Idinjillam is a small village connecting two growing towns of Changanachery and Thiurvalla, in the Central Travancore region of Kerala. To our west lie the plains and paddy fields of Kuttanad with its interweaving backwaters and rivers. To our east is the famed cardamom hills and forests of the western ghats. Central Travancore is the seat of royalty and culture with quite a few unexplored gems of Kerala.</br></br> For the traveller who wants to take it slow, our home, provides a much needed respite in itself. </br></br> We offer comfortable, safe homestay facilities at Idinjillam at our home."
 
     [params.portfolio.modal]
-      client = "Client"
+      client = "Hotstop"
       distance = "Distance"
       category = "Category"
-      buttonText = "Close project"
+      buttonText = "Close Location"
 
 
     # About section
@@ -160,70 +160,75 @@ googleAnalytics = ""
 
   # Team section
   [params.team]
-    enable = false
+    enable = true
     # Possibility to center items
     #center = true
-    title = "Our amazing team"
-    subtitle = "Lorem ipsum dolor sit amet consectetur."
-    description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde."
-
+    title = "Stay with us"
+    subtitle = "We are available on airbnb for bookings"
+    description = "we have three options for your stay. "
     # All team member's pictures are stored under 'static/img/team'.
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
       img = "1.jpg"
-      name = "Kay Garland"
-      position = "Lead Designer"
-      reportsTo = "CTO"
-      livesIn = "[Munich, Germany](#some-maps-url)"
-      scope = [
-        "UX for [member dashboard](#)",
-        "Maintainer for [awesome-project](#)",
-        "Open Source [community management](#)"
-      ]
+      name = "Kattappurathu"
+      link = "https://www.airbnb.co.in/rooms/20781029?s=51"
+      position = "2 Bed & Large Common Area"
+      #reportsTo = "CTO"
+      #livesIn = "[Munich, Germany](#some-maps-url)"
+      #scope = [
+      #  "UX for [member dashboard](#)",
+      #  "Maintainer for [awesome-project](#)",
+      #  "Open Source [community management](#)"
+      #]
       # For bio markdown and even multiline strings are available.
-      bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-She worked at Pied Piper for years until they went belly up."""
+      # bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
+      # She worked at Pied Piper for years until they went belly up."""
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-bed", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+        ["fa-shower", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+        ["fa-wifi", "https://www.airbnb.co.in/rooms/20781029?s=51"]
       ]
 
     [[params.team.members]]
       img = "2.jpg"
-      name = "Larry Parker"
-      position = "Lead Marketer"
+      name = "Kattappurathu Kudumbam"
+      link = "https://www.airbnb.co.in/rooms/20700152?s=51"
+      position = "2 Bed & Large Common Area"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-bed", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+        ["fa-shower", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+        ["fa-wifi", "https://www.airbnb.co.in/rooms/20700152?s=51"]
       ]
 
     [[params.team.members]]
       img = "3.jpg"
-      name = "Diana Pertersen"
-      position = "Lead Developer"
+      name = "Kattappurathu Veedu"
+      link = "https://www.airbnb.co.in/rooms/21442528?s=51"
+      position = "4 Bed & Large Common Area"
       social = [
-        ["fa-twitter", "#"],
-        ["fa-facebook", "#"],
-        ["fa-linkedin", "#"]
+        ["fa-bed", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+        ["fa-shower", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+        ["fa-wifi", "https://www.airbnb.co.in/rooms/21442528?s=51"]
       ]
 
   # Client section
     [params.clients_list]
-      enable = true
+      enable = false
       # Possibility to center items
-      #center = true
+      center = true
       # Optional client title specifying the involvement
-      #title = "Used and trusted by"
+      title = "book with us through airbnb"
 
       # All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
       [[params.clients]]
-        logo = "envato.jpg"
-        link = "#"
+        logo = "airbnb.png"
+        link = "https://www.airbnb.co.in/rooms/21442528?s=51"
 
       [[params.clients]]
         logo = "designmodo.jpg"
@@ -305,7 +310,7 @@ She worked at Pied Piper for years until they went belly up."""
 
     [[params.footer.quicklinks]]
       text = "Privacy Policy"
-      link = "#"
+      link = "location.html"
 
     [[params.footer.quicklinks]]
       text = "Terms of Use"

@@ -351,7 +351,7 @@ header .intro-text .intro-heading {
 }
 
 section {
-    padding: 100px 0;
+    padding: 25px 0;
 }
 
 section h2.section-heading {
@@ -371,7 +371,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 60px 0;
     }
 }
 
@@ -429,7 +429,7 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
-    padding: 25px;
+    padding: 2px;
     max-width: 400px;
     text-align: center;
     background-color: #fff;
@@ -523,7 +523,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #fed136;
+    background-color: #14554e;
 }
 
 .timeline>li .timeline-image h4 {
