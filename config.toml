@@ -51,7 +51,7 @@ googleAnalytics = "UA-111622234-1"
     services = "What to Expect"
     portfolio = "Sights"
     about = "Where are we?"
-    team = "Stay"
+    # team = "Stay"
     contact = "Contact"
 
     # Add custom links. Those can be pre- and postpended to the default menu above.
@@ -158,81 +158,81 @@ googleAnalytics = "UA-111622234-1"
       description = "The property, though small, is filled with trees and plants. There are mangoes, a variety of jackfruits and local plaintain that one can enjoy straight from mother nature."
 
 
-  # Team section
-  [params.team]
-    enable = true
-    # Possibility to center items
-    #center = true
-    title = "Stay with us"
-    subtitle = "We are available on airbnb for bookings"
-    description = "we have three options for your stay. "
-    # All team member's pictures are stored under 'static/img/team'.
-    # Replace them with your own too.
-    # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
-    [[params.team.members]]
-      img = "1.jpg"
-      name = "Kattappurathu"
-      link = "https://www.airbnb.co.in/rooms/20781029?s=51"
-      position = "2 Bed & Large Common Area"
-      #reportsTo = "CTO"
-      #livesIn = "[Munich, Germany](#some-maps-url)"
-      #scope = [
-      #  "UX for [member dashboard](#)",
-      #  "Maintainer for [awesome-project](#)",
-      #  "Open Source [community management](#)"
-      #]
-      # For bio markdown and even multiline strings are available.
-      # bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
-      # She worked at Pied Piper for years until they went belly up."""
-      social = [
-        ["fa-bed", "https://www.airbnb.co.in/rooms/20781029?s=51"],
-        ["fa-shower", "https://www.airbnb.co.in/rooms/20781029?s=51"],
-        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20781029?s=51"],
-        ["fa-wifi", "https://www.airbnb.co.in/rooms/20781029?s=51"]
-      ]
-
-    [[params.team.members]]
-      img = "2.jpg"
-      name = "Kattappurathu Kudumbam"
-      link = "https://www.airbnb.co.in/rooms/20700152?s=51"
-      position = "2 Bed & Large Common Area"
-      social = [
-        ["fa-bed", "https://www.airbnb.co.in/rooms/20700152?s=51"],
-        ["fa-shower", "https://www.airbnb.co.in/rooms/20700152?s=51"],
-        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20700152?s=51"],
-        ["fa-wifi", "https://www.airbnb.co.in/rooms/20700152?s=51"]
-      ]
-
-    [[params.team.members]]
-      img = "3.jpg"
-      name = "Kattappurathu Veedu"
-      link = "https://www.airbnb.co.in/rooms/21442528?s=51"
-      position = "4 Bed & Large Common Area"
-      social = [
-        ["fa-bed", "https://www.airbnb.co.in/rooms/21442528?s=51"],
-        ["fa-shower", "https://www.airbnb.co.in/rooms/21442528?s=51"],
-        ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/21442528?s=51"],
-        ["fa-wifi", "https://www.airbnb.co.in/rooms/21442528?s=51"]
-      ]
-
-  # Client section
-    [params.clients_list]
-      enable = false
-      # Possibility to center items
-      center = true
-      # Optional client title specifying the involvement
-      title = "book with us through airbnb"
-
-      # All the clients' logos are stored under 'static/img/logos'.
-      # Replace them with your clients's logos.
-      # Suggestion: .svg in the size of 280px*80px looks good
-      [[params.clients]]
-        logo = "airbnb.png"
-        link = "https://www.airbnb.co.in/rooms/21442528?s=51"
-
-      [[params.clients]]
-        logo = "designmodo.jpg"
-        link = "#"
+ # # Team section
+ # [params.team]
+ #   enable = true
+ #   # Possibility to center items
+ #   #center = true
+ #   title = "Stay with us"
+ #   subtitle = "We are available on airbnb for bookings"
+ #   description = "we have three options for your stay. "
+ #   # All team member's pictures are stored under 'static/img/team'.
+ #   # Replace them with your own too.
+ #   # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
+ #   [[params.team.members]]
+ #     img = "1.jpg"
+ #     name = "Kattappurathu"
+ #     link = "https://www.airbnb.co.in/rooms/20781029?s=51"
+ #     position = "2 Bed & Large Common Area"
+ #     #reportsTo = "CTO"
+ #     #livesIn = "[Munich, Germany](#some-maps-url)"
+ #     #scope = [
+ #     #  "UX for [member dashboard](#)",
+ #     #  "Maintainer for [awesome-project](#)",
+ #     #  "Open Source [community management](#)"
+ #     #]
+ #     # For bio markdown and even multiline strings are available.
+ #     # bio = """Kay is an awesome Lead Designer with heaps of experience in the field of UX.
+ #     # She worked at Pied Piper for years until they went belly up."""
+ #     social = [
+ #       ["fa-bed", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+ #       ["fa-shower", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+ #       ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20781029?s=51"],
+ #       ["fa-wifi", "https://www.airbnb.co.in/rooms/20781029?s=51"]
+ #     ]
+#
+ #   [[params.team.members]]
+ #     img = "2.jpg"
+ #     name = "Kattappurathu Kudumbam"
+ #     link = "https://www.airbnb.co.in/rooms/20700152?s=51"
+ #     position = "2 Bed & Large Common Area"
+ #     social = [
+ #       ["fa-bed", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+ #       ["fa-shower", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+ #       ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/20700152?s=51"],
+ #       ["fa-wifi", "https://www.airbnb.co.in/rooms/20700152?s=51"]
+ #     ]
+#
+ #   [[params.team.members]]
+ #     img = "3.jpg"
+ #     name = "Kattappurathu Veedu"
+ #     link = "https://www.airbnb.co.in/rooms/21442528?s=51"
+ #     position = "4 Bed & Large Common Area"
+ #     social = [
+ #       ["fa-bed", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+ #       ["fa-shower", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+ #       ["fa-snowflake-o", "https://www.airbnb.co.in/rooms/21442528?s=51"],
+ #       ["fa-wifi", "https://www.airbnb.co.in/rooms/21442528?s=51"]
+ #     ]
+#
+ # # Client section
+ #   [params.clients_list]
+ #     enable = false
+ #     # Possibility to center items
+ #     center = true
+ #     # Optional client title specifying the involvement
+ #     title = "book with us through airbnb"
+#
+ #     # All the clients' logos are stored under 'static/img/logos'.
+ #     # Replace them with your clients's logos.
+ #     # Suggestion: .svg in the size of 280px*80px looks good
+ #     [[params.clients]]
+ #       logo = "airbnb.png"
+ #       link = "https://www.airbnb.co.in/rooms/21442528?s=51"
+#
+ #     [[params.clients]]
+ #       logo = "designmodo.jpg"
+ #       link = "#"
 
   # Contact section
   [params.contact]
